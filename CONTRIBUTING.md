@@ -1,1 +1,3 @@
-You may only push to master if permitted by me
+New? Try this guide!
+
+Coming soon...
