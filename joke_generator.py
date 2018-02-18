@@ -21,5 +21,5 @@ if joketype==1:
          rid="What vehicle is spelled the same backwards and forwards?"
          ans="Racecar"
      print(rid) 
-     time.sleep(5)
+     time.sleep(6)
      print(ans)
