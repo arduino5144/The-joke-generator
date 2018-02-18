@@ -1,6 +1,6 @@
-What is wrong:
+What is wrong/requested:
 
-How to recreate the problem:
+How to recreate the problem(only required if something's wrong):
 
 Description:
 
